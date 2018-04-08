@@ -1,2 +1,4 @@
 # hello-world
-This is a simple example.
+
+Hi there! I enjoy playing card games, travelling, 
+and learning new things.
